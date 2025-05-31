@@ -14,7 +14,7 @@ wget -O ./install.sh https://condu.ro/install.sh && chmod +x ./install.sh && sud
 # What does it do?
 The purpose of Conduro is to optimize and secure your system to run web applications. It does this by disabling unnecessary services, bootstrapping your firewall, secure your system settings and other things. Continue reading if you want to know exactly what's being executed.
 
-#### update dependencies
+#### update dependencies 
 ```bash
 apt-get install wget sed git -y
 ```
